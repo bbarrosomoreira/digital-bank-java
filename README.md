@@ -19,7 +19,7 @@ This is a simple digital bank project, developed as part of my learning journey 
 ## 🚀 Project Evolution
 
 A new, more robust version was developed using Spring Boot, JPA, H2, and JWT authentication.  
-👉 Check it out here: [digital-bank-api]https://github.com/bbarrosomoreira/digital-bank-api
+👉 Check it out here: [digital-bank-api](https://github.com/bbarrosomoreira/digital-bank-api)
 
 ---
 
@@ -38,4 +38,4 @@ Este é um projeto de um banco digital simples, desenvolvido como parte do meu a
 ## 🚀 Evolução do Projeto
 
 Uma nova versão, mais robusta, foi desenvolvida com Spring Boot, JPA, H2 e autenticação JWT.  
-👉 Acesse aqui: [digital-bank-api]https://github.com/bbarrosomoreira/digital-bank-api
+👉 Acesse aqui: [digital-bank-api](https://github.com/bbarrosomoreira/digital-bank-api)
